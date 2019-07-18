@@ -8,7 +8,7 @@
 
 import Foundation
 
-let isTesting = true // On true, arguements will be passed from schema
+let isTesting = false // On true, arguements will be passed from schema
 
 func begin(){
     var userInput: [String] = []
