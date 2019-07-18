@@ -37,6 +37,7 @@
 		F1AF8A8022E0F3C400B96F60 /* Enums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		F1AF8A8122E0F3C400B96F60 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		F1AF8A8222E0F3C400B96F60 /* Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
+		F1AF8A8922E0F8CB00B96F60 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +54,7 @@
 		F1AF8A6622E0F2D300B96F60 = {
 			isa = PBXGroup;
 			children = (
+				F1AF8A8922E0F8CB00B96F60 /* README.md */,
 				F1AF8A7122E0F2D300B96F60 /* Calculator */,
 				F1AF8A7022E0F2D300B96F60 /* Products */,
 			);
