@@ -1,5 +1,5 @@
 # Calculator
-An iOS command line calculator
+An iOS command line calculator in Swift 4.2
 
 ## Requirements
 
